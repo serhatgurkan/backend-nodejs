@@ -1,0 +1,18 @@
+[
+  {"_id": "1", "name": "Bicycle", "category": "Sports", "price": 100},
+  {"_id": "2", "name": "Laptop", "category": "Electronics", "price": 500},
+  {"_id": "3", "name": "Desk", "category": "Furniture", "price": 75},
+  {"_id": "4", "name": "Chair", "category": "Furniture", "price": 40},
+  {"_id": "5", "name": "Camera", "category": "Electronics", "price": 150},
+  {"_id": "6", "name": "Tent", "category": "Outdoors", "price": 80},
+  {"_id": "7", "name": "Book", "category": "Books", "price": 10},
+  {"_id": "8", "name": "Shoes", "category": "Clothing", "price": 30},
+  {"_id": "9", "name": "Watch", "category": "Accessories", "price": 60},
+  {"_id": "10", "name": "Phone", "category": "Electronics", "price": 200},
+  {"_id": "11", "name": "Table", "category": "Furniture", "price": 120},
+  {"_id": "12", "name": "Jacket", "category": "Clothing", "price": 50},
+  {"_id": "13", "name": "Backpack", "category": "Outdoors", "price": 35},
+  {"_id": "14", "name": "Glasses", "category": "Accessories", "price": 25},
+  {"_id": "15", "name": "Headphones", "category": "Electronics", "price": 80},
+  {"_id": "16", "name": "Sofa", "category": "Furniture", "price": 300}
+]

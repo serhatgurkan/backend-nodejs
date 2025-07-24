@@ -1,0 +1,16 @@
+{
+  "name": "secondchance-backend",
+  "version": "1.0.0",
+  "description": "SecondChance Backend API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "multer": "^2.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

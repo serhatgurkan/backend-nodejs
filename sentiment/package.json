@@ -1,0 +1,14 @@
+{
+  "name": "sentiment",
+  "version": "1.0.0",
+  "description": "Sentiment analysis module for SecondChance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "natural": "^6.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

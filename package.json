@@ -1,0 +1,12 @@
+{
+  "name": "backend-nodejs-capstone",
+  "version": "1.0.0",
+  "description": "SecondChance Backend Node.js Capstone",
+  "main": "secondChance-backend/app.js",
+  "scripts": {
+    "start": "node secondChance-backend/app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
